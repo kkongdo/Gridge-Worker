@@ -4,6 +4,17 @@
 📆 **개발 기간** : 2024.07.08 - 2024.09.11(2개월) <br>
 👷🏻‍♂️ **담당 역할** : 서버 개발자 & Team Leader <br>
 
+## 👨🏻‍🏭 Tech Stack
+<p>
+  <img alt="JAVA" src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img alt="Spring Boot" src="https://img.shields.io/badge/SPRING%20BOOT-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=white"/>
+  <img alt="Spring Data JPA" src="https://img.shields.io/badge/SPRING%20Data%20JPA-6DB33F.svg?&style=for-the-badge&logo=SPRING&logoColor=white"/>
+  <img alt="Spring Validation" src="https://img.shields.io/badge/SPRING%20Validation-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=white"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
+  <img alt="QueryDSL" src="https://img.shields.io/badge/QueryDSL-004F9F.svg?&style=for-the-badge&logo=logoColor=white"/>
+  <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D.svg?&style=for-the-badge&logo=SWagger&logoColor=white"/>
+</p>
+
 ## 👨🏻‍💻 담당 기능
 - 관심 프로젝트 목록 조회 API 
 - 내 작업 관리 작업 목록 조회 API
