@@ -1,8 +1,10 @@
 ## SK플래닛 ASAC 웹풀스택 개발자 과정 - 기업 협업 프로젝트
-✏️ **주제** : [프로젝트 작업자들에게 맞춤형 IT 프로젝트 추천 및 개발자 매칭 플랫폼(서비스명: Gridge Worker, 회사명: 소프트스퀘어드)](https://worker.gridge.co.kr/)<br>
-👨‍💻 **개발 인원** : 참여 인원 5명(Web 2명, Server 3명) <br>
-📆 **개발 기간** : 2024.07.08 - 2024.09.11(2개월) <br>
-👷🏻‍♂️ **담당 역할** : 서버 개발자 & Team Leader <br>
+- **회사** : 소프트스퀘어드 <br>
+- **서비스**: 그릿지 워커(Gridge Worker) <br>
+- **주제** : [프로젝트 작업자들에게 맞춤형 IT 프로젝트 추천 및 개발자 매칭 플랫폼](https://worker.gridge.co.kr/)<br>
+- **개발 인원** : 참여 인원 5명(Web 2명, Server 3명) <br>
+- **개발 기간** : 2024.07.08 - 2024.09.11(2개월) <br>
+- **담당 역할** : 서버 개발자 & Team Leader <br>
 
 ## 👨🏻‍🏭 Tech Stack
 <p>
@@ -15,7 +17,8 @@
   <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D.svg?&style=flat&logo=SWagger&logoColor=white"/>
 </p>
 
-## 👨🏻‍💻 담당 기능
+## 👨🏻‍💻 담당 개발
+#### 📌 내 작업 관리 페이지 및 작업 내역 조회 및 신규 UI에 따른 신규 API 개발
 - 관심 프로젝트 목록 조회 API 
 - 내 작업 관리 작업 목록 조회 API
 - 내 작업 관리 프로젝트 전체 작업 시간, 이번 달 작업 시간조회 API
