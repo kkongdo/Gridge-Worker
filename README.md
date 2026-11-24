@@ -9,8 +9,9 @@
 <p>
   <img alt="JAVA" src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white">
   <img alt="Spring Boot" src="https://img.shields.io/badge/SPRING%20BOOT-6DB33F.svg?&style=flat&logo=Spring%20Boot&logoColor=white"/>
+  <img alt="Spring Security" src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=spring-security&logoColor=white"/>
+  <img alt="Spring Validation" src="https://img.shields.io/badge/SPRING%20Validation-6DB33F.svg?&style=flat&logo=Spring&logoColor=white"/>
   <img alt="Spring Data JPA" src="https://img.shields.io/badge/SPRING%20Data%20JPA-6DB33F.svg?&style=flat&logo=SPRING&logoColor=white"/>
-  <img alt="Spring Validation" src="https://img.shields.io/badge/SPRING%20Validation-6DB33F.svg?&style=flat&logo=Spring%20Boot&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=MySQL&logoColor=white"/>
   <img alt="QueryDSL" src="https://img.shields.io/badge/QueryDSL-004F9F.svg?&style=flat&logo=logoColor=white"/>
   <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D.svg?&style=flat&logo=SWagger&logoColor=white"/>
